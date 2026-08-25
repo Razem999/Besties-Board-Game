@@ -936,11 +936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Tests\\BoardGame.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Tests\\BoardGame.Tests.csproj",
       "projectName": "BoardGame.Tests",
-      "projectPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Tests\\BoardGame.Tests.csproj",
+      "projectPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Tests\\BoardGame.Tests.csproj",
       "packagesPath": "C:\\Users\\razem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Tests\\obj\\",
+      "outputPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -963,8 +963,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Game\\BoardGame.Game.csproj": {
-              "projectPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Game\\BoardGame.Game.csproj"
+            "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\BoardGame.Game.csproj": {
+              "projectPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\BoardGame.Game.csproj"
             }
           }
         }

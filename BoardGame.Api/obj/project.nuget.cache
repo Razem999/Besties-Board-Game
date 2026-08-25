@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hx75G4vgpSI=",
+  "dgSpecHash": "/qwNFa+09UM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Api\\BoardGame.Api.csproj",
+  "projectFilePath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Api\\BoardGame.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razem\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
     "C:\\Users\\razem\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J2l+KBSnHW0=",
+  "dgSpecHash": "chSbYquWtRE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Tests\\BoardGame.Tests.csproj",
+  "projectFilePath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Tests\\BoardGame.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razem\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\razem\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

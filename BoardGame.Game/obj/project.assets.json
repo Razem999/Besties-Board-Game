@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Game\\BoardGame.Game.csproj",
+      "projectUniqueName": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\BoardGame.Game.csproj",
       "projectName": "BoardGame.Game",
-      "projectPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Game\\BoardGame.Game.csproj",
+      "projectPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\BoardGame.Game.csproj",
       "packagesPath": "C:\\Users\\razem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Game\\obj\\",
+      "outputPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
