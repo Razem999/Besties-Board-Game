@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7EE149-5B0B-04E8-582B-CFADD9E61A77}|BoardGame.Web\\boardgame.web.esproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-boardgame\\boardgame.web\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{1B7EE149-5B0B-04E8-582B-CFADD9E61A77}|BoardGame.Web\\boardgame.web.esproj|solutionrelative:boardgame.web\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EAC63A-C684-4E54-B00A-FE238ED18567}|BoardGame.Api\\BoardGame.Api.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-boardgame\\boardgame.api\\boardgame.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8EAC63A-C684-4E54-B00A-FE238ED18567}|BoardGame.Api\\BoardGame.Api.csproj|solutionrelative:boardgame.api\\boardgame.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C07BD5C2-9DD2-425B-AE10-B5F4E07405BD}|BoardGame.Data\\BoardGame.Data.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-boardgame\\boardgame.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07BD5C2-9DD2-425B-AE10-B5F4E07405BD}|BoardGame.Data\\BoardGame.Data.csproj|solutionrelative:boardgame.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C22A34C5-65EC-4723-A8B8-EF8BEA83B99D}|BoardGame.Tests\\BoardGame.Tests.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-boardgame\\boardgame.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C22A34C5-65EC-4723-A8B8-EF8BEA83B99D}|BoardGame.Tests\\BoardGame.Tests.csproj|solutionrelative:boardgame.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2681EF0D-1E83-41AD-A75E-470BC4C59C3A}|BoardGame.Game\\BoardGame.Game.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-boardgame\\boardgame.game\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2681EF0D-1E83-41AD-A75E-470BC4C59C3A}|BoardGame.Game\\BoardGame.Game.csproj|solutionrelative:boardgame.game\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Web\\src\\App.tsx",
+              "RelativeDocumentMoniker": "BoardGame.Web\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Web\\src\\App.tsx",
+              "RelativeToolTip": "BoardGame.Web\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-08-24T03:14:45.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "BoardGame.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Data\\Class1.cs",
+              "RelativeToolTip": "BoardGame.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T02:27:21.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoardGame.Api",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Api\\BoardGame.Api.csproj",
+              "RelativeDocumentMoniker": "BoardGame.Api\\BoardGame.Api.csproj",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Api\\BoardGame.Api.csproj",
+              "RelativeToolTip": "BoardGame.Api\\BoardGame.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-24T02:26:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BoardGame.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "BoardGame.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T02:23:12.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Game\\Class1.cs",
+              "RelativeDocumentMoniker": "BoardGame.Game\\Class1.cs",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-BoardGame\\BoardGame.Game\\Class1.cs",
+              "RelativeToolTip": "BoardGame.Game\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T02:21:52.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

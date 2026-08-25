@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="BoardGame.Api/BoardGame.Api.csproj" />
+  <Project Path="BoardGame.Data/BoardGame.Data.csproj" />
+  <Project Path="BoardGame.Game/BoardGame.Game.csproj" />
+  <Project Path="BoardGame.Tests/BoardGame.Tests.csproj" />
+  <Project Path="BoardGame.Web/boardgame.web.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
