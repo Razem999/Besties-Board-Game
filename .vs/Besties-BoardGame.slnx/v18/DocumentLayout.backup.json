@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.game\\boardgame.game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|solutionrelative:boardgame.game\\boardgame.game.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.game\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|solutionrelative:boardgame.game\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.game\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|solutionrelative:boardgame.game\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.game\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|solutionrelative:boardgame.game\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|solutionrelative:boardgame.game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B7EE149-5B0B-04E8-582B-CFADD9E61A77}|BoardGame.Web\\boardgame.web.esproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.web\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{1B7EE149-5B0B-04E8-582B-CFADD9E61A77}|BoardGame.Web\\boardgame.web.esproj|solutionrelative:boardgame.web\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -11,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{7EBEFFD7-F2A4-7538-8C74-7B20AA0B67C6}|BoardGame.Data\\BoardGame.Data.csproj|solutionrelative:boardgame.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B38DF3E3-4A7D-91CD-09C5-66A4FADAE32F}|BoardGame.Api\\BoardGame.Api.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.api\\boardgame.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B38DF3E3-4A7D-91CD-09C5-66A4FADAE32F}|BoardGame.Api\\BoardGame.Api.csproj|solutionrelative:boardgame.api\\boardgame.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{73B647AC-D516-8A6A-4AEA-350912775CD0}|BoardGame.Tests\\BoardGame.Tests.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73B647AC-D516-8A6A-4AEA-350912775CD0}|BoardGame.Tests\\BoardGame.Tests.csproj|solutionrelative:boardgame.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|c:\\users\\razem\\desktop\\programming\\workshop\\all-in-one board\\besties-board-game\\boardgame.game\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D8A86A-A296-A1B6-A889-383A1234809B}|BoardGame.Game\\BoardGame.Game.csproj|solutionrelative:boardgame.game\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +42,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BoardGame.Game",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\BoardGame.Game.csproj",
+              "RelativeDocumentMoniker": "BoardGame.Game\\BoardGame.Game.csproj",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\BoardGame.Game.csproj",
+              "RelativeToolTip": "BoardGame.Game\\BoardGame.Game.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-25T20:32:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\GameEngine.cs",
+              "RelativeDocumentMoniker": "BoardGame.Game\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\GameEngine.cs",
+              "RelativeToolTip": "BoardGame.Game\\GameEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T20:30:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prototype.cs",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\Prototype.cs",
+              "RelativeDocumentMoniker": "BoardGame.Game\\Prototype.cs",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\Prototype.cs",
+              "RelativeToolTip": "BoardGame.Game\\Prototype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T20:23:12.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\GameState.cs",
+              "RelativeDocumentMoniker": "BoardGame.Game\\GameState.cs",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\GameState.cs",
+              "RelativeToolTip": "BoardGame.Game\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T20:15:40.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Web\\src\\App.tsx",
               "RelativeDocumentMoniker": "BoardGame.Web\\src\\App.tsx",
               "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Web\\src\\App.tsx",
               "RelativeToolTip": "BoardGame.Web\\src\\App.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-08-24T03:14:45.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Data\\Class1.cs",
               "RelativeDocumentMoniker": "BoardGame.Data\\Class1.cs",
@@ -59,19 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BoardGame.Api.csproj",
-              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Api\\BoardGame.Api.csproj",
-              "RelativeDocumentMoniker": "BoardGame.Api\\BoardGame.Api.csproj",
-              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Api\\BoardGame.Api.csproj",
-              "RelativeToolTip": "BoardGame.Api\\BoardGame.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-24T02:26:12.51Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "BoardGame.Tests\\UnitTest1.cs",
@@ -84,14 +140,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\Class1.cs",
-              "RelativeDocumentMoniker": "BoardGame.Game\\Class1.cs",
-              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\Class1.cs",
-              "RelativeToolTip": "BoardGame.Game\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\Player.cs",
+              "RelativeDocumentMoniker": "BoardGame.Game\\Player.cs",
+              "ToolTip": "C:\\Users\\razem\\Desktop\\Programming\\Workshop\\All-in-one Board\\Besties-Board-Game\\BoardGame.Game\\Player.cs",
+              "RelativeToolTip": "BoardGame.Game\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T02:21:52.323Z"
+              "WhenOpened": "2026-08-24T02:21:52.323Z",
+              "EditorCaption": ""
             }
           ]
         }

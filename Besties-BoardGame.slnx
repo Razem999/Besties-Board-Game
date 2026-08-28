@@ -7,4 +7,5 @@
     <Build />
     <Deploy />
   </Project>
+  <Project Path="Prototype/Prototype.csproj" Id="f7e6b603-4c9d-4006-ab25-a7ef63ec96c8" />
 </Solution>

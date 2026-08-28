@@ -1,0 +1,15 @@
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\bin\Debug\net10.0\BoardGame.Game.deps.json
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\bin\Debug\net10.0\BoardGame.Game.dll
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\bin\Debug\net10.0\BoardGame.Game.pdb
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\BoardGame.Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\BoardGame.Game.AssemblyInfoInputs.cache
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\BoardGame.Game.AssemblyInfo.cs
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\BoardGame.Game.csproj.CoreCompileInputs.cache
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\BoardGame.Game.sourcelink.json
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\BoardGame.Game.dll
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\refint\BoardGame.Game.dll
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\BoardGame.Game.pdb
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\ref\BoardGame.Game.dll
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\bin\Debug\net10.0\BoardGame.Game.exe
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\bin\Debug\net10.0\BoardGame.Game.runtimeconfig.json
+C:\Users\razem\Desktop\Programming\Workshop\All-in-one Board\Besties-Board-Game\BoardGame.Game\obj\Debug\net10.0\BoardGame.Game.genruntimeconfig.cache
