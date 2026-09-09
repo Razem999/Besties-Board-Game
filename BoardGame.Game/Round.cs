@@ -16,27 +16,27 @@ namespace BoardGame.Game
             this.cardsInPlay = cardsInPlay;
         }
 
-        public void startRound()
+        public void StartRound()
         {
             // Logic to start the round
         }
 
-        public void endRound()
+        public void EndRound()
         {
             // Logic to end the round
         }
 
-        public void drawCards()
+        public void DrawCards()
         {
             // Logic to draw cards for the round
         }
 
-        public void swapCard()
+        public void SwapCard()
         {
             // Logic to swap a card in the round
         }
 
-        public void swapAll()
+        public void SwapAll()
         {
             // Logic to swap all cards in the round
         }
